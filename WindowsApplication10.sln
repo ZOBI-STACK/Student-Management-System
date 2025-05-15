@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication10", "WindowsApplication10\WindowsApplication10.vbproj", "{CD43298F-42AF-4E41-8925-62F8C7601C25}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "View Student Data", "View Student Data\View Student Data.vbproj", "{AFC97F93-79D3-4C0C-B3B6-583C22E84860}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "View Student Data (CLASS 10)", "View Student Data (CLASS 10)\View Student Data (CLASS 10).vbproj", "{C213B177-A310-434D-9826-C8899D03C4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD43298F-42AF-4E41-8925-62F8C7601C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD43298F-42AF-4E41-8925-62F8C7601C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD43298F-42AF-4E41-8925-62F8C7601C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD43298F-42AF-4E41-8925-62F8C7601C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC97F93-79D3-4C0C-B3B6-583C22E84860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC97F93-79D3-4C0C-B3B6-583C22E84860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC97F93-79D3-4C0C-B3B6-583C22E84860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC97F93-79D3-4C0C-B3B6-583C22E84860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C213B177-A310-434D-9826-C8899D03C4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C213B177-A310-434D-9826-C8899D03C4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C213B177-A310-434D-9826-C8899D03C4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C213B177-A310-434D-9826-C8899D03C4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
