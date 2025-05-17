@@ -2,6 +2,9 @@
 *This is a Student Management System developed using VB.NET and connected to a Microsoft SQL Server database.
 It allows administrators to perform CRUD (Create, Read, Update, Delete) operations on student records.*
 
+Language:
+- VB.NET
+
 💡 Features
 
 - Add new student records
